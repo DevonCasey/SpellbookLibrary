@@ -1,0 +1,4 @@
+Name,Focus,Form,Description,Psi_Point_Cost,Cast_Type,Duration
+"Iron Durability","While focused on this discipline, you gain a +1 bonus to AC.","Iron Hide","As a reaction when you are hit by an attack, you gain a +1 bonus to AC for each psi point you spend on this ability. The bonus lasts until the end of your next turn. This bonus applies against the triggering attack",1-7,"Reaction /End of Turn","End of Turn"
+"Iron Durability",,"Steel Hide","As a bonus action, you gain resistance to bludgeoning, piercing, and slashing damage until the end of your next turn.",2,"Bonus Action / End of Turn","End of Next Turn"
+"Iron Durability",,"Iron Resistance","As an action, you gain resistance to bludgeoning, piercing, or slashing damage (your choice), which lasts until your concentration ends.",7,"Action / Concentration","Concentration / 1hr"

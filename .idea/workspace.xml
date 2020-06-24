@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9956212-f330-49f0-97d2-34a913f35300" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpellbookLibrary" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dcPhh5gsrCj89Xtn5qKpXag0np" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/errors" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/templates" />
+      <recent name="$PROJECT_DIR$/app/errors" />
+      <recent name="$PROJECT_DIR$/app/auth" />
+      <recent name="$PROJECT_DIR$/app/templates/auth" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/errors" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src/Mystic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="spellbook_librarian_1.0-backup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpellbookLibrary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spellbook_librarian_1.0-backup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spellbook_librarian_1.0-backup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9956212-f330-49f0-97d2-34a913f35300" name="Default Changelist" comment="" />
+      <created>1592721528758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592721528758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1162" y="65" width="543" height="897" key="#Dockerfile" timestamp="1592796410320">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1162" y="65" width="543" height="897" key="#Dockerfile/0.0.1920.1080@0.0.1920.1080" timestamp="1592796410320" />
+    <state x="1024" y="72" width="804" height="675" key="#Inspections" timestamp="1592881233946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1024" y="72" width="804" height="675" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1592881233946" />
+    <state x="1032" y="176" width="804" height="717" key="#Intentions" timestamp="1592871349804">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="176" width="804" height="717" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1592871349804" />
+    <state x="577" y="36" width="1084" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592877028578">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="577" y="36" width="1084" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592877028578" />
+    <state x="1073" y="88" width="721" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592892211268">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1073" y="88" width="721" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592892211268" />
+    <state x="1120" y="256" width="628" height="516" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592856506536">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1120" y="256" width="628" height="516" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592856506536" />
+    <state x="1160" y="136" width="528" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592878815584">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1160" y="136" width="528" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592878815584" />
+    <state x="1269" y="271" width="329" height="485" key="#xdebugger.XInspectDialog" timestamp="1592882677288">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1269" y="271" width="329" height="485" key="#xdebugger.XInspectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592882677288" />
+    <state x="1139" y="21" width="428" height="482" key="FileChooserDialogImpl" timestamp="1592857835878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1139" y="21" width="428" height="482" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1592857835878" />
+    <state width="930" height="21" key="GridCell.Tab.0.bottom" timestamp="1592897377623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="21" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592897377623" />
+    <state width="930" height="21" key="GridCell.Tab.0.center" timestamp="1592897377623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="21" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592897377623" />
+    <state width="930" height="21" key="GridCell.Tab.0.left" timestamp="1592897377623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="21" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592897377623" />
+    <state width="930" height="21" key="GridCell.Tab.0.right" timestamp="1592897377623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="21" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592897377623" />
+    <state x="967" y="98" key="SettingsEditor" timestamp="1592884456706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="967" y="98" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1592884456706" />
+    <state x="1101" y="167" width="666" height="693" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592882459911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1101" y="167" width="666" height="693" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592882459911" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1592875371428">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592875371428" />
+    <state x="1270" y="405" width="544" height="168" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592851483861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1270" y="405" width="544" height="168" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592851483861" />
+  </component>
+</project>
